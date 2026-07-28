@@ -43,8 +43,7 @@ This Tableau dashboard provides a comprehensive analysis of Superstore sales dat
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Superstore%20Sales%20Dashboard/Screenshots/Dashboard1.png)
-
+![Dashboard](Screenshots/Dashboard1.png)
 ---
 
 ## 📂 Project Files
